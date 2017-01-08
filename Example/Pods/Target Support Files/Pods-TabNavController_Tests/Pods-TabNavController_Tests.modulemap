@@ -1,0 +1,6 @@
+framework module Pods_TabNavController_Tests {
+  umbrella header "Pods-TabNavController_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

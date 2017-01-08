@@ -22,6 +22,12 @@
 		6003F5BA195388D20070C39A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5B8195388D20070C39A /* InfoPlist.strings */; };
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
+		B605D7351E2218DA00593943 /* albumB_album.png in Resources */ = {isa = PBXBuildFile; fileRef = B605D72E1E2218DA00593943 /* albumB_album.png */; };
+		B605D7361E2218DA00593943 /* albumB_albumP.png in Resources */ = {isa = PBXBuildFile; fileRef = B605D72F1E2218DA00593943 /* albumB_albumP.png */; };
+		B605D7371E2218DA00593943 /* albumB_Capture.png in Resources */ = {isa = PBXBuildFile; fileRef = B605D7301E2218DA00593943 /* albumB_Capture.png */; };
+		B605D7381E2218DA00593943 /* albumB_CaptureP.png in Resources */ = {isa = PBXBuildFile; fileRef = B605D7311E2218DA00593943 /* albumB_CaptureP.png */; };
+		B605D7391E2218DA00593943 /* albumB_Setting.png in Resources */ = {isa = PBXBuildFile; fileRef = B605D7321E2218DA00593943 /* albumB_Setting.png */; };
+		B605D73A1E2218DA00593943 /* albumB_SettingP.png in Resources */ = {isa = PBXBuildFile; fileRef = B605D7331E2218DA00593943 /* albumB_SettingP.png */; };
 		E76456F838D3CE71E4D595CB /* Pods_TabNavController_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D0852721C59B6368D9D9DD3 /* Pods_TabNavController_Tests.framework */; };
 /* End PBXBuildFile section */
 
@@ -36,8 +42,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2D31BFE3D7AA1C0E32EFAAC5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		46915F345FD09544C3AFC85F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		2D31BFE3D7AA1C0E32EFAAC5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		46915F345FD09544C3AFC85F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		55E8EE787CDB433763B578CF /* Pods_TabNavController_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TabNavController_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58A195388D20070C39A /* TabNavController_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabNavController_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -63,7 +69,13 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		91C60297519704CAA762203F /* Pods-TabNavController_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TabNavController_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TabNavController_Example/Pods-TabNavController_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		9D0852721C59B6368D9D9DD3 /* Pods_TabNavController_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TabNavController_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BB6A2F9F4596581618ACD781 /* TabNavController.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = TabNavController.podspec; path = ../TabNavController.podspec; sourceTree = "<group>"; };
+		B605D72E1E2218DA00593943 /* albumB_album.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = albumB_album.png; sourceTree = "<group>"; };
+		B605D72F1E2218DA00593943 /* albumB_albumP.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = albumB_albumP.png; sourceTree = "<group>"; };
+		B605D7301E2218DA00593943 /* albumB_Capture.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = albumB_Capture.png; sourceTree = "<group>"; };
+		B605D7311E2218DA00593943 /* albumB_CaptureP.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = albumB_CaptureP.png; sourceTree = "<group>"; };
+		B605D7321E2218DA00593943 /* albumB_Setting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = albumB_Setting.png; sourceTree = "<group>"; };
+		B605D7331E2218DA00593943 /* albumB_SettingP.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = albumB_SettingP.png; sourceTree = "<group>"; };
+		BB6A2F9F4596581618ACD781 /* TabNavController.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TabNavController.podspec; path = ../TabNavController.podspec; sourceTree = "<group>"; };
 		CFEC4538E6BA5967C614AD9A /* Pods-TabNavController_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TabNavController_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-TabNavController_Example/Pods-TabNavController_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -130,6 +142,7 @@
 		6003F593195388D20070C39A /* Example for TabNavController */ = {
 			isa = PBXGroup;
 			children = (
+				B605D7341E2218DA00593943 /* Resources */,
 				6003F59C195388D20070C39A /* KHAppDelegate.h */,
 				6003F59D195388D20070C39A /* KHAppDelegate.m */,
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
@@ -193,6 +206,20 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
+		B605D7341E2218DA00593943 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B605D72E1E2218DA00593943 /* albumB_album.png */,
+				B605D72F1E2218DA00593943 /* albumB_albumP.png */,
+				B605D7301E2218DA00593943 /* albumB_Capture.png */,
+				B605D7311E2218DA00593943 /* albumB_CaptureP.png */,
+				B605D7321E2218DA00593943 /* albumB_Setting.png */,
+				B605D7331E2218DA00593943 /* albumB_SettingP.png */,
+			);
+			name = Resources;
+			path = ../../TabNavController/Classes/Resources;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -247,6 +274,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "Keith Hon";
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = N933PV2SBE;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -277,8 +307,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
+				B605D7361E2218DA00593943 /* albumB_albumP.png in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
+				B605D7351E2218DA00593943 /* albumB_album.png in Resources */,
+				B605D7381E2218DA00593943 /* albumB_CaptureP.png in Resources */,
+				B605D7391E2218DA00593943 /* albumB_Setting.png in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
+				B605D7371E2218DA00593943 /* albumB_Capture.png in Resources */,
+				B605D73A1E2218DA00593943 /* albumB_SettingP.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -513,6 +549,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = N933PV2SBE;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TabNavController/TabNavController-Prefix.pch";
 				INFOPLIST_FILE = "TabNavController/TabNavController-Info.plist";
@@ -529,6 +566,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = N933PV2SBE;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TabNavController/TabNavController-Prefix.pch";
 				INFOPLIST_FILE = "TabNavController/TabNavController-Info.plist";

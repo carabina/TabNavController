@@ -1,0 +1,16 @@
+PODS:
+  - TabNavController (0.1.0)
+
+DEPENDENCIES:
+  - TabNavController (from `../`)
+
+EXTERNAL SOURCES:
+  TabNavController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TabNavController: 9c9c850c99e797cfdbcaa02f8bf7614228f7b4c1
+
+PODFILE CHECKSUM: 9b684983a9c358baf5f826e4a00b5b7b6df4c78a
+
+COCOAPODS: 1.1.1
